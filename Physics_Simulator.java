@@ -1,10 +1,32 @@
 /**
  * Created by Saul on 8/08/2018.
+ *    simple physics simulator for ENGR 142
+ only draws the axes with some labels (That don't work)
+
+ used solely for the purpose of testing how to use GitHub with
+ intellij
  */
 
 import java.util.*;
 import ecs100.*;
 import java.awt.Color;
+
+
+
+
+
+
+
+
+
+//YEET
+
+
+
+
+
+
+
 
 public class Physics_Simulator {
 
